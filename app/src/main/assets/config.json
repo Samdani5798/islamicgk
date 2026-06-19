@@ -1,0 +1,33 @@
+{
+  "name": "Islamicgkfinal",
+  "description": "Imported ZIP web framework project.",
+  "packageName": "com.aistudio.imported.islamicgkfinal",
+  "versionName": "1.0",
+  "versionCode": 1,
+  "orientation": "unspecified",
+  "themeColor": "#2196F3",
+  "useSplashScreen": true,
+  "homepage": "index.html",
+  "carryPhp": false,
+  "phpServerPort": 8080,
+  "splashImage": "",
+  "iconPath": "",
+  "fullscreenMode": false,
+  "hideTitleBar": true,
+  "allowLongPress": false,
+  "showLoadingUi": true,
+  "allowZoom": false,
+  "pcMode": false,
+  "allowMediaAutoplay": true,
+  "allowSwipingToRefresh": false,
+  "permissions": {
+    "vibration": true,
+    "location": true,
+    "camera": true,
+    "microphone": true,
+    "storage": true,
+    "notifications": true,
+    "bluetooth": true,
+    "internet": true
+  }
+}
